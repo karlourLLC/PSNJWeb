@@ -1,5 +1,5 @@
 body{
-	background-image: url(/img/cameraLeather.jpg);
+	background-image: url(../img/cameraLeather.jpg);
 	color:#555;
 	font-family:Arial, Helvetica, sans-serif;
 	font-size:16px;
@@ -23,14 +23,14 @@ body{
 }
 
 #main-header{
-	background-image: url(/img/brushedMetal.jpg);
+	background-image: url(../img/brushedMetal.jpg);
 	color:rgb(27, 26, 26);
 	height: 150px;
 	text-align: center;
 }
 
 #navbar{
-	background-image:url(/img/cameraLeather.jpg);
+	background-image:url(../img/cameraLeather.jpg);
 	color:#fff;
 	padding-left: 60px;
 }
@@ -56,7 +56,7 @@ body{
 }
 
 #showcase{
-	background-image:url('/img/sittingEagle.jpg');
+	background-image:url('../img/sittingEagle.jpg');
 	background-size: cover;
 	background-position: center;
 	text-align: center;
@@ -77,14 +77,14 @@ body{
 	box-sizing: border-box;
 	background-size: cover;
 	background-position: top;
-	background-image: url(/img/WhiteShowcase.jpg);
+	background-image: url(../img/WhiteShowcase.jpg);
 	color: #181a1a;
 }
 
 .sidebar{
 	float:right;
 	width:30%;
-	background-image: url(/img/cameraLeather.jpg);
+	background-image: url(../img/cameraLeather.jpg);
 	height: 100%;
 	color:rgba(255, 255, 255, 0.671);
 	padding:30px;
@@ -93,7 +93,7 @@ body{
 
 .button{
 	color: black;
-	background-image: url(/img/silver-brushed-metal-texture-280x280.jpg);
+	background-image: url(../img/silver-brushed-metal-texture-280x280.jpg);
 	padding: 5px;
 	
 	text-decoration: none;
@@ -105,11 +105,11 @@ body{
 }
 
 .button:hover{
-	background-image: url(/img/buttonGold.jpg);
+	background-image: url(../img/buttonGold.jpg);
 }
 
 #main-footer{
-	background-image: url(/img/cameraLeather.jpg);
+	background-image: url(../img/cameraLeather.jpg);
 	color:#fff;
 	text-align: center;
 	padding:5px;
