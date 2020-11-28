@@ -48,11 +48,21 @@ body{
 	width:100%;
 }
 
+.my-form option[type="text"], .my-form textarea{
+	padding:8px;
+	width:100%;
+}
+
 .my-form #name-form{
 	display: inline-block;
 	padding-right: 400px;
 	padding-bottom: 15px;
 	width: 64%;
+}
+
+.my-form #payment-type{
+	padding-bottom:15px;
+	padding-right: 400px;
 }
 
 #lname-form{

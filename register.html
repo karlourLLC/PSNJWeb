@@ -53,19 +53,27 @@
 				</div>
 				<div class="form-group">
 					<label>微信会员群昵称: </label>
-					<input type="text" name="WName">
+					<input type="text" name="WName" placeholder="Wechat nickname">
 				</div>
 				<div class="form-group">
 					<label>微信账号: </label>
-					<input type="text" name="WechetAccountNameWechetAccountName">
+					<input type="text" name="WechetAccountNameWechetAccountName" placeholder="Wechat account">
 				</div>
 				<div class="form-group">
 					<label>电子邮箱地址: </label>
-					<input type="text" name="email">
+					<input type="text" name="email" placeholder="Email AccountName@EmailAddress">
+				</div>
+				<div class="form-group">
+					<label for="payment-type">付款方式：</label>
+					<select name="payment-type" id="payment-type">
+						<option value="Zelle">Zelle</option>
+						<option value="PayPal">PayPal</option>
+						<option value="Quickpay">Quickpay</option>
+					</select>
 				</div>
 
 				<div class="form-group">
-					<label>Message: </label>
+					<label>留言: </label>
 					<textarea name="message"></textarea>
 				</div>
 				<input class="button" type="submit" value="Submit" name="">
