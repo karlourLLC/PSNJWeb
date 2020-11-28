@@ -48,6 +48,22 @@ body{
 	width:100%;
 }
 
+.my-form #name-form{
+	display: inline-block;
+	padding-right: 400px;
+	padding-bottom: 15px;
+	width: 64%;
+}
+
+#lname-form{
+	float: left;
+	width: 48%;
+}
+
+#fname-form{
+	float: right;
+	width: 48%;
+}
 
 #main-header{
 	background-image: url(../img/buttonGold.jpg);
