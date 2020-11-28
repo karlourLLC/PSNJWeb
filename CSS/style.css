@@ -17,7 +17,7 @@ body{
 	margin: 8px;
 	padding-top: 5px;
 	box-sizing: initial;
-	border-radius: 50%;
+	border-radius: 10%;
 	border-bottom: 5px rgb(75, 69, 48) solid;
 	border-right: 5px rgb(75, 60, 50) solid;
 }

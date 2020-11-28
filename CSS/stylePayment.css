@@ -14,11 +14,11 @@ body{
 	background-image: url(../img/roundBrushedGold.png);
 	color: black;
 	background-size: cover;
-	padding: 3px;
-	padding-bottom: 3px;
-	padding-top: 20px
+	padding: 1px;
+	padding-bottom: 5px;
+	padding-top: 12px
 	box-sizing: initial;
-	border-radius: 50%;
+	border-radius: 10px;
 	border-bottom: 5px rgb(61, 50, 50) solid;
 	border-right: 5px rgb(61, 50, 50) solid;
 }
@@ -64,7 +64,7 @@ body{
 	padding: 10px;
 	text-decoration: none;
 	font-size: 32px;
-	border-radius: 6%;
+	border-radius: 20px;
 	border-bottom: 5px rgb(61, 50, 50) solid;
 	border-right: 5px rgb(61, 50, 50) solid;
 }
