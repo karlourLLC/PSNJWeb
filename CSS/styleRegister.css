@@ -14,7 +14,7 @@ body{
 	background-image: url(../img/roundBrushedGold.png);
 	color: black;
 	background-size: cover;
-	
+	margin: 8px;
 	padding-top: 5px;
 	box-sizing: initial;
 	border-radius: 50%;
