@@ -64,7 +64,7 @@ body{
 	padding: 10px;
 	text-decoration: none;
 	font-size: 32px;
-	border-radius: 20px;
+	border-radius: 10px;
 	border-bottom: 5px rgb(61, 50, 50) solid;
 	border-right: 5px rgb(61, 50, 50) solid;
 }
@@ -95,7 +95,7 @@ body{
 }
 
 #showcase{
-	background-image:url('../img/branchWater.jpg');
+	background-image:url('../img/GoatHill.jpg');
 	background-size: cover;
 	background-position: bottom;
 	text-align: center;
