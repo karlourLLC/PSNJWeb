@@ -9,13 +9,13 @@ body{
 
 #logo{
 	float:left;
-	width:7%;
-	height: 83%;
+	width:125px;
+	height: 120px;
 	background-image: url(../img/roundBrushedGold.png);
 	color: black;
 	background-size: cover;
 	margin: 8px;
-	padding-top: 5px;
+	padding-top: 2px;
 	box-sizing: initial;
 	border-radius: 10%;
 	border-bottom: 5px rgb(75, 69, 48) solid;
