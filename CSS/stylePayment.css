@@ -9,14 +9,14 @@ body{
 
 #logo{
 	float:left;
-	width:5%;
-	height: 90%;
+	width:100px;
+	height: 90px;
 	background-image: url(../img/roundBrushedGold.png);
 	color: black;
 	background-size: cover;
 	padding: 1px;
 	padding-bottom: 5px;
-	padding-top: 12px
+	padding-top: 8px;
 	box-sizing: initial;
 	border-radius: 10px;
 	border-bottom: 5px rgb(61, 50, 50) solid;
@@ -116,7 +116,7 @@ body{
 	box-sizing: border-box;
 	background-size: cover;
 	background-position: top;
-	background-image: url(../img/showcase.jpg);
+	background-image: url(../img/lensShowcase.jpg);
 
 	color: #f6fafa;
 }
@@ -147,6 +147,10 @@ body{
 
 .button:hover{
 	background-image: url(../img/silver-brushed-metal-texture-280x280.jpg);
+}
+
+.sidebar #QR{
+	padding: 20%;
 }
 
 #main-footer{

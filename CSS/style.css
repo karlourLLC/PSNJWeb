@@ -116,6 +116,10 @@ body{
 	background-image: url(../img/buttonGold.jpg);
 }
 
+#QR{
+	padding: 20%;
+}
+
 #main-footer{
 	background-image: url(../img/cameraLeather.jpg);
 	color:#fff;
