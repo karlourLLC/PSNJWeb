@@ -116,6 +116,11 @@ body{
 	background-image: url(../img/buttonGold.jpg);
 }
 
+#RQ .follow{
+	display: inline;
+	padding-left: 20px;
+}
+
 #QR{
 	padding: 20%;
 }

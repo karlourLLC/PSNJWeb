@@ -167,6 +167,11 @@ body{
 	padding: 20%;
 }
 
+#RQ .follow{
+	display: inline;
+	padding-left: 20px;
+}
+
 #main-footer{
 	background-image: url(../img/cameraLeatherBrown.png);
 	color:#fff;

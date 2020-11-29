@@ -149,8 +149,13 @@ body{
 	background-image: url(../img/silver-brushed-metal-texture-280x280.jpg);
 }
 
-.sidebar #QR{
+#QR{
 	padding: 20%;
+}
+
+#RQ .follow{
+	display: inline;
+	padding-left: 20px;
 }
 
 #main-footer{
