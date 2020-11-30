@@ -81,7 +81,8 @@ body{
 #main{
 	float:left;
 	width:70%;
-	padding:40px 80px;
+	height: 100%;
+	padding:20px 80px;
 	box-sizing: border-box;
 	background-size: cover;
 	background-position: top;

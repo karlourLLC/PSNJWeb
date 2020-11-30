@@ -75,7 +75,7 @@ body{
 }
 
 #navbar a:hover{
-	color: yellow;
+	color: red;
 }
 
 #navbar ul{
@@ -112,7 +112,8 @@ body{
 #main{
 	float:left;
 	width:70%;
-	padding:40px 80px;
+	height: 100%;
+	padding:50px 80px;
 	box-sizing: border-box;
 	background-size: cover;
 	background-position: top;
